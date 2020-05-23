@@ -5,9 +5,9 @@
 4. Support Vector Machine produces very good accuracy with less computation power.
 5. In this, we will be comparing the results from both the methods on the problem of Breast Cancer Detection.
 6. The packages or the libraries we need to do this are as follows:
-* sys
-* numpy
-* matplotlib
-* pandas
-* sklearn
+  * sys
+  * numpy
+  * matplotlib
+  * pandas
+  * sklearn
 
