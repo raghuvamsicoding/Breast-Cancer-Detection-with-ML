@@ -9,4 +9,8 @@
    * matplotlib   3.1.3
    * pandas       1.0.1
    * sklearn      0.22.1
-
+7. There is this UCI Repository which has a collection of lots of various datasets. The link is provided below.
+[UCI Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data)
+8. 20% of the data is for testing the model.
+9. I got the KNN accuracy to be 97.85714% whereas SVM accuracy to be 68.5714% which is quite low.
+10. The SVM accuracy was quite low but this is my first commit in ML. So, I shall be changing that soon.
